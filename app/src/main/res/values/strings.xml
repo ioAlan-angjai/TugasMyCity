@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jogja Guide</string>
+    <string name="guide_badge">PANDUAN WISATA YOGYAKARTA</string>
+    <string name="guide_subtitle">PANDUAN WISATA JOGJA</string>
+    <string name="guide_tagline">Temukan pesona istimewa di setiap sudut Yogyakarta</string>
+    <string name="section_category_title">Pilih Kategori Wisata</string>
+    <string name="section_category_subtitle">Jelajahi keindahan budaya, alam, kuliner, dan pesona kota Jogja</string>
+    <string name="tips_title">Tips Wisatawan</string>
+    <string name="tips_badge">Sapa &amp; Santun</string>
+    <string name="tips_content">Gunakan pakaian sopan saat berkunjung ke kompleks Keraton dan area ibadah candi. Sapa warga dengan senyum ramah khas grapyak semanak warga Jogja.</string>
+    <string name="about_title">Tentang</string>
+    <string name="location_title">Lokasi</string>
+    <string name="visit_tips_title">Tips Berkunjung</string>
+    <string name="open_maps">Buka di Google Maps</string>
+    <string name="back">Kembali</string>
+    <string name="empty_places">Belum ada tempat wisata</string>
+    <string name="data_not_found">Data tidak ditemukan</string>
+    <string name="map_not_found">Aplikasi peta tidak ditemukan</string>
+</resources>
